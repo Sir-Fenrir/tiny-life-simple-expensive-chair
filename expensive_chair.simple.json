@@ -1,0 +1,22 @@
+[{
+  "modId":  "ExpensiveChair",
+  "type": "Chair",
+  "categories": ["Chair"],
+  "name":  "ExpensiveChair",
+  "tab": "LivingRoom",
+  "price": 500,
+  "atlas": "ExpensiveChair",
+  "size": [ 1, 1 ],
+  "colorSchemes": [ "SimpleWood", "Modern" ],
+  "actionSpots": [
+	{
+		"vectorX": 0,
+		"vectorY": 0,
+		"yOffset": -0.2,
+		"direction": "Adjacent",
+		"drawLayer": 1
+	}
+  ],
+  "defaultRotation": "Down",
+  "colorMap": [1, 0, 1]	 
+}]

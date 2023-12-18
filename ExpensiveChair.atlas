@@ -1,0 +1,15 @@
+SimpleObjectLoader.ExpensiveChair.ExpensiveChairLeft
+loc 0 0 32 32
+piv 16 25
+
+SimpleObjectLoader.ExpensiveChair.ExpensiveChairUp
+loc 0 32 32 32
+piv 16 57
+
+SimpleObjectLoader.ExpensiveChair.ExpensiveChairRight
+loc 0 64 32 32
+piv 16 89
+
+SimpleObjectLoader.ExpensiveChair.ExpensiveChairDown
+loc 0 96 32 32
+piv 16 121
