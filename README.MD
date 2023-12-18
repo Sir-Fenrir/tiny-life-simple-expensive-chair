@@ -1,7 +1,7 @@
 # An Expensive Chair for in Tiny Life
 **Textures and settings made by McChicky in the Ellpeck Games Discord**
 
-This mod is loaded using the (Simple Object Loader)[https://github.com/Sir-Fenrir/simple-object-loader] mod.
+This mod is loaded using the [Simple Object Loader](https://github.com/Sir-Fenrir/simple-object-loader) mod.
 
 Instead of writing code, you can just create a JSON file (ending in '.simple.json'), which consists of key-value pairs, describing the object you want to add.
 
