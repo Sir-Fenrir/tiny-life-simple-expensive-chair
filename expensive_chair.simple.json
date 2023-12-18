@@ -1,6 +1,5 @@
 [{
   "modId":  "ExpensiveChair",
-  "type": "Chair",
   "categories": ["Chair"],
   "name":  "ExpensiveChair",
   "tab": "LivingRoom",
